@@ -10,3 +10,5 @@ puts formatter % [
     "But it didn't sing.",
     "So I said goodnight."
 ]
+ puts formatter.class 
+
